@@ -46,8 +46,8 @@ const Navbar = () => {
                 <img className="w-32" src={logo} alt="logo" />
                 <p className="text-sm text-gray-400 mt-2">
                   I am Lord of the Nazgul. You may know me as Witch King of Angmar. I am the harbinger of despair, weilding 
-                  shadows as my tools and shaping fear in every corner. Thanks for visiting my site. I expect you're shaking
-                  in your boots. 
+                  shadows as my tools and shaping fear in every corner. Gaze into the abyss of my domain, traveler, for your
+                  presence is duly noted.
                 </p>
               </div>
               <ul className="flex flex-col gap-4">
