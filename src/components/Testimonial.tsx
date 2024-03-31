@@ -134,12 +134,12 @@ const Testimonial = () => {
                       </div>
                     </div>
                     <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    As the Dark Lord of Mordor, I have had the pleasure of working closely with the Lord of the Nazgul for 
+                    As the Dark Lord of Mordor, I have had the pleasure of working closely with Lord of the Nazgul for 
                     many ages. His unwavering loyalty and formidable leadership have been crucial in advancing our dark 
-                    ambitions across Middle-earth. With a keen sense of strategy and an unmatched ability to inspire fear 
-                    and obedience, the Lord of the Nazgul has proven to be an invaluable asset to our cause. His dedication 
+                    ambitions across Middle Earth. With a keen sense of strategy and an unmatched ability to inspire fear 
+                    and obedience, Lord of the Nazgul has proven to be an invaluable asset to our cause. His dedication 
                     to the will of Mordor is unwavering, and his service is indispensable. I can attest, with the certainty 
-                    that comes from seeing all, that the Lord of the Nazgul is a reliable and formidable leader, whose presence 
+                    that comes from seeing all, that Lord of the Nazgul is a reliable and formidable leader, whose presence 
                     instills dread in our enemies and commands respect from our allies. I wholeheartedly endorse his
                     capabilities and commend his commitment to our dark purpose.
                     </p>
@@ -184,8 +184,8 @@ const Testimonial = () => {
                       </div>
                     </div>
                     <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    As Gothmog, Lieutenant of Morgul, I have had the honour of serving alongside the Lord of the Nazgul in our relentless pursuit of domination. His ferocity in battle and 
-                    mastery of dark sorcery are unmatched. From the dark halls of Barad-dûr to the desolate plains of Mordor, the Lord of the Nazgul has proven himself to be a formidable 
+                    As Gothmog, Lieutenant of Morgul, I have had the honour of serving alongside Lord of the Nazgul in our relentless pursuit of domination. His ferocity in battle and 
+                    mastery of dark sorcery are unmatched. From the dark halls of Barad-dûr to the desolate plains of Mordor, Lord of the Nazgul has proven himself to be a formidable 
                     force, wielding his dark powers with precision and cunning. His strategic insight and unwavering resolve have been pivotal in achieving our dark objectives.
                     </p>
                   </div>
@@ -229,7 +229,7 @@ const Testimonial = () => {
                       </div>
                     </div>
                     <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    The Lord of the Nazgul's prowess in commanding the forces of darkness is unparalleled. His strategic 
+                    Lord of the Nazgul's prowess in commanding the forces of darkness is unparalleled. His strategic 
                     acumen and unwavering dedication to our shared objectives have been instrumental in furthering the 
                     goals of our dark alliance. He is a steadfast and reliable ally, whose loyalty to our cause is beyond 
                     question. From my tower of Orthanc, I have beheld his actions, and I, Saruman the Wise, can attest to 

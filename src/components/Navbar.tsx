@@ -45,9 +45,9 @@ const Navbar = () => {
               <div>
                 <img className="w-32" src={logo} alt="logo" />
                 <p className="text-sm text-gray-400 mt-2">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Earum soluta perspiciatis molestias enim cum repellat, magnam
-                  exercitationem distinctio aliquid nam.
+                  I am Lord of the Nazgul. You may know me as Witch King of Angmar. I am the harbinger of despair, weilding 
+                  shadows as my tools and shaping fear in every corner. Thanks for visiting my site. I expect you're shaking
+                  in your boots. 
                 </p>
               </div>
               <ul className="flex flex-col gap-4">
@@ -75,13 +75,13 @@ const Navbar = () => {
                   Find me in
                 </h2>
                 <div className="flex gap-4">
-                  <a href="https://www.youtube.com/@reactjsBD" target="_blank">
+                  <a href="https://www.youtube.com/" target="_blank">
                     <span className="bannerIcon">
                       <FaYoutube />
                     </span>
                   </a>
                   <a
-                    href="https://www.linkedin.com/in/noor-mohammad-ab2245193/"
+                    href="https://www.linkedin.com/in/"
                     target="_blank"
                   >
                     <span className="bannerIcon">
@@ -89,7 +89,7 @@ const Navbar = () => {
                     </span>
                   </a>
                   <a
-                    href="https://www.facebook.com/Noorlalu143/"
+                    href="https://www.facebook.com/"
                     target="_blank"
                   >
                     <span className="bannerIcon">
